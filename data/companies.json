@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "OpenAI",
+    "website": "https://openai.com",
+    "industry": "AI"
+  },
+  {
+    "id": "2",
+    "name": "Stripe",
+    "website": "https://stripe.com",
+    "industry": "Fintech"
+  }
+]
